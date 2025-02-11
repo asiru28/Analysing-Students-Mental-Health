@@ -13,7 +13,7 @@ This project explores the impact of studying abroad on the mental health of inte
 
 # Data Source
 
-The data used in this project was collected from a survey conducted by a Japanese international university in 2018. The dataset includes information on student demographics, language proficiency, academic level, length of stay, and mental health scores (PHQ-9 for depression, SGS for social connectedness, and ASSSS for acculturative stress).
+The data used in this project was collected from a survey conducted by a Japanese international university in 2018. The dataset includes information on student demographics, language proficiency, academic level, length of stay, and mental health scores (PHQ-9 for depression, SGS for social connectedness, and ASISS for acculturative stress).
 
 # Tools Used
 
