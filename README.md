@@ -18,7 +18,7 @@ The data used in this project was collected from a survey conducted by a Japanes
 # Tools Used
 
 - PostgreSQL: For querying and analysing the dataset.
-- Google Colab: For running and documenting the analysis in a Jupyter Notebook environment.
+- datalab: For running and documenting the analysis in a Jupyter Notebook environment.
 
 # Insights
 
